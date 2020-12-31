@@ -1,0 +1,8 @@
+# modules needed to run iPython in the docs/
+-r requirements.txt
+matplotlib
+numpy
+pyaudio
+pydub
+scipy
+soundfile
